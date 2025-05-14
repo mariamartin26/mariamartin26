@@ -10,7 +10,7 @@ tag para comentário ou anotação
 - 📫 vocẽ pode me encontrar aqui
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: gostoo de sorvete de milho
-
+![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 <!---
 comentário
 --->
